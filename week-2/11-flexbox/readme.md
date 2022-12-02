@@ -8,7 +8,7 @@ Flexbox is used to change the layout of elements on the HTML page. In this exerc
 
 _Hint: The images below describe how `flex-direction` works. Try to imagine `flex-direction` as the direction of the arrow._
 
-![Screenshot of the flex direction row](/images/11/example-row.png)
+![Screenshot of the flex direction row](/imag Use the property `flex-direction` to make the countries on the left look like the ones on the right.es/11/example-row.png)
 
 ![Screenshot of the flex direction column](/images/11/example-column.png)
 
